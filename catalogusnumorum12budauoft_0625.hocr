@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogusnumorum12budauoft_0625.png"; bbox 0 0 1618 2950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 512 620 1346 735">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 512 598 1346 735">
+     <span class='ocr_line' id='line_1_1' title="bbox 514 620 1346 682; baseline -0.004 -11"><span class='ocrx_word' id='word_1_1' title='bbox 514 622 806 682; x_wconf 73' lang='lat' dir='ltr'><strong>Budapest.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 876 620 1081 680; x_wconf 70' lang='lat' dir='ltr'>Magyn-</span> <span class='ocrx_word' id='word_1_3' title='bbox 1110 622 1346 669; x_wconf 69' lang='lat' dir='ltr'>Nenzeti.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 512 688 716 735; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 512 688 716 735; x_wconf 52' lang='lat' dir='ltr'><strong>mazam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 279 1517 1341 1570">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 279 1517 1341 1570">
+     <span class='ocr_line' id='line_1_3' title="bbox 279 1517 1341 1570; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 279 1517 1341 1570; x_wconf 62' lang='lat' dir='ltr'>mmsonsupsfflommtspoooer</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 321 1707 1301 1759">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 321 1707 1301 1759">
+     <span class='ocr_line' id='line_1_4' title="bbox 321 1707 1301 1759; baseline -0.004 0"><span class='ocrx_word' id='word_1_6' title='bbox 321 1710 631 1759; x_wconf 69' lang='lat' dir='ltr'>mwffisffv</span> <span class='ocrx_word' id='word_1_7' title='bbox 658 1709 739 1757; x_wconf 70' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_8' title='bbox 768 1707 1055 1756; x_wconf 66' lang='lat' dir='ltr'>ronomo</span> <span class='ocrx_word' id='word_1_9' title='bbox 1087 1708 1301 1755; x_wconf 71' lang='lat' dir='ltr'>mmv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1618 2950">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1618 2950">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1618 2950; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1618 2950; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
